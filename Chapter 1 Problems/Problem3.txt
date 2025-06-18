@@ -1,0 +1,13 @@
+# pip install django
+# ...........
+ 
+Name: Django
+Version: 5.2.2
+Summary: A high-level Python web framework that encourages rapid development and clean, pragmatic design.
+Home-page: https://www.djangoproject.com/
+Author:
+Author-email: Django Software Foundation <foundation@djangoproject.com>
+License: BSD-3-Clause
+Location: C:\Users\STAR COMPUTER\AppData\Local\Programs\Python\Python313\Lib\site-packages
+Requires: asgiref, sqlparse, tzdata
+Required-by:
