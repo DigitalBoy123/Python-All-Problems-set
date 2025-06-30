@@ -10,3 +10,6 @@ if original == reversed:
     print("Yes the number is palindrome!")
 else:
     print("No! The number is not palindrome")
+
+
+ 
